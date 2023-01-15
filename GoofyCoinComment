@@ -1,8 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-//make some change
-
 /*This smart contract is a simple blockchain implementation that creates a GoofyCoin cryptocurrency. 
 It uses structs to represent blocks in the chain, and an array to store all the blocks. 
 It also uses a mapping to store the balance of each address and an event to log when coins are sent. 
